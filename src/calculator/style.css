@@ -1,0 +1,26 @@
+#btnPlus:hover{
+    -fx-background-color: #C0C0C0;
+}
+
+#btnMinus:hover{
+    -fx-background-color: #C0C0C0;
+}
+
+#btnMult:hover{
+    -fx-background-color: #C0C0C0;
+}
+
+#btnDiv:hover{
+    -fx-background-color: #C0C0C0;
+}
+
+.cmdButton {
+    -fx-background-color: #66B2FF;
+    -fx-text-fill: #FFFFFF;
+}
+
+.nmbButton {
+    -fx-background-color: #CCFFFF;
+}
+
+
